@@ -1,2 +1,2 @@
 # literate-umbrella
-working with new language every sunday 
+Making and Trying out new things
