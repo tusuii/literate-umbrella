@@ -10,4 +10,4 @@ main = do
  putStrLn "Enter an integer:"
  n <- readLn
  let result = fibonacci n
- putStrLn ("The 5th Fibonacci number is " ++ show result)
+ putStrLn ("The th Fibonacci number is " ++ show result)
