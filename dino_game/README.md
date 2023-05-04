@@ -33,6 +33,8 @@ pip install -r requirements.txt
 
 > TODO (possible pr) :smile: :star:
 
+[ ] Automate using AI/ML
+
 [ ] Power-ups
 
 [ ] Character customization
