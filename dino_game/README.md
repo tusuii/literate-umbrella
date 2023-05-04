@@ -8,6 +8,12 @@
 pip install -r requirements.txt
 ```
 
+### To run 
+
+```shell
+python main.py    # windows
+python3 main.py   # Macos/unix
+```
 ---
 > Controls
 
