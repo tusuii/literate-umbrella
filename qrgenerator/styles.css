@@ -1,0 +1,37 @@
+body {
+  border: 1px solid black;
+  padding: 8px;
+}
+.button-container {
+  display: flex;
+}
+
+.input {
+  width: auto;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  font-size: 18px;
+  padding: 2px 2px;
+}
+
+.button {
+  display: inline-block;
+  margin-left: 5px;
+  padding: 2px 2px;
+  background: linear-gradient(to bottom, #004c63, #077379);
+  color: white;
+  font-size: 18px;
+  border-radius: 4px;
+  transition: background 0.3s ease;
+}
+
+.button:hover {
+  background: linear-gradient(to bottom, #022b2e, #074779);
+}
+
+.qrcode {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}
