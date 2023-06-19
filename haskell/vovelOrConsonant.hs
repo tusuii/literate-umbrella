@@ -1,3 +1,4 @@
+-- vovel or consonent
 isVowel :: Char -> Bool
 isVowel c = c `elem` "aeiouAEIOU"
 
