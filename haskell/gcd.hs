@@ -12,7 +12,7 @@ main = do
   let result = gcd' num1 num2
   putStrLn $ "GCD: " ++ show result
 
-{-
+{- output
 *Main> main
 Enter the first number:
 24
